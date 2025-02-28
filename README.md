@@ -3,11 +3,11 @@
 O objetivo do challengeONE foi fazer uma microaplicação capaz de sortear nomes de uma lista, criando assim um pequeno site capaz de sortear nomes para um jogo de amigo secreto.
 
 ## Ferramentas utilizadas
-![App Iniciado](assets/icons8-javascript-96.png)
-![App Iniciado](assets/icons8-html-5-96.png)
-![App Iniciado](assets/icons8-css-96.png)
+![JavaScript](assets/icons8-javascript-96.png)
+![HTML](assets/icons8-html-5-96.png)
+![CSS](assets/icons8-css-96.png)
 
-**JAVASCRIPT** - Utilizado para a fazer a lógica do sorteio.<br>
+**JAVASCRIPT** - Utilizado para fazer a lógica do sorteio.<br>
 **HTML/CSS** - Utilizado para fazer a construção da interface (Modelo pronto fornecido pelos orientadores).
 
 ![App Iniciado](assets/init.png)
